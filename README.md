@@ -3,3 +3,4 @@ This repository contains the source files of the landing page taught in the Web 
 <hr>
 <img src=Screenshot.png>
 <hr>
+The page uses Bootstrap 5 and minimal Custom CSS.
